@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paystack-test-cookies/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paystack-test-cookies/static/js/main.16fe7e67.chunk.js",
+    "main.js.map": "/paystack-test-cookies/static/js/main.16fe7e67.chunk.js.map",
+    "runtime-main.js": "/paystack-test-cookies/static/js/runtime-main.99374012.js",
+    "runtime-main.js.map": "/paystack-test-cookies/static/js/runtime-main.99374012.js.map",
+    "static/js/2.000bc207.chunk.js": "/paystack-test-cookies/static/js/2.000bc207.chunk.js",
+    "static/js/2.000bc207.chunk.js.map": "/paystack-test-cookies/static/js/2.000bc207.chunk.js.map",
+    "index.html": "/paystack-test-cookies/index.html",
+    "precache-manifest.4951992a6f3d3bb7ed3b4e8298e12525.js": "/paystack-test-cookies/precache-manifest.4951992a6f3d3bb7ed3b4e8298e12525.js",
+    "service-worker.js": "/paystack-test-cookies/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paystack-test-cookies/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.000bc207.chunk.js.LICENSE.txt": "/paystack-test-cookies/static/js/2.000bc207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99374012.js",
+    "static/js/2.000bc207.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.16fe7e67.chunk.js"
+  ]
+}
